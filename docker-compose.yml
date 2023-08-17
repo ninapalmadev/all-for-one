@@ -34,7 +34,6 @@ services:
       MYSQL_USER: root
       MYSQL_PASSWORD: password
       HOSTNAME: db
-
   # Serviço que irá rodar o banco de dados
   db:
     # Caso seu computador seja um Mac com processador Apple Silicon (M1, M2, etc), descomente a linha abaixo
